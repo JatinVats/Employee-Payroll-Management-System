@@ -6,7 +6,7 @@ CSE-II
 JATIN VATS
 AVIRAL AWASTHI
 ANSH BARMAN
-ANKIT KUMAR BRAHMCHARI
+ANKIT KUMAR BRAHMACHARI
 -
 *DESCRIPTION*: 
 This payroll management system uses computer-operated system designed to
